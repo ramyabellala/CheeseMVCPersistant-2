@@ -9,3 +9,4 @@ namespace CheeseMVC.ViewModels
         public string Name { get; set; }
     }
 }
+//added viewmodels 
